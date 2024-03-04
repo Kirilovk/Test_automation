@@ -1,8 +1,6 @@
 import java.util.Scanner;
-
 public class WeekDayes {
             public static void main(String args[]) {
-                //int i=5;
                 Scanner sc= new Scanner(System.in);
                 System.out.print("Enter day number- ");
                 int i= sc.nextInt();
